@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&width=1000&height=100&lines=Welcome+to+Noil's+GitHub!)]
+
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <!--
 **Noil0909/Noil0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
